@@ -5,6 +5,10 @@ import Three360Viewer from "./components/Three360Viewer";
 function App() {
   const images = [
     {
+      url: "room.webp",
+      name: "hotel",
+    },
+    {
       url: "street.webp",
       name: "Street",
     },
